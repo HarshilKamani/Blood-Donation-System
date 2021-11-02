@@ -16,6 +16,6 @@ This App is a Windows Based Application. The Visual studio Dot Net Framework(C# 
 
 # Downloading the source code
 
-You can download complete Airline ticket booking system source code as a <a href="https://github.com/HarshilKamani/Blood-Donation-System/blob/main/Blood%20Donation.zip">Zip file</a>.
+You can download complete Airline ticket booking system source code as a <a href="https://raw.githubusercontent.com/HarshilKamani/Blood-Donation-System/main/Blood%20Donation.zip">Zip file</a>.
 You will have to download the complete source code everytime it is updated on the respository.
 
