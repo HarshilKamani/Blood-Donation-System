@@ -1,1 +1,2 @@
 # Blood-Donation-System
+This App is a Windows Based Application. The Visual studio Dot Net Framework(C# .NET) is Used to Access this project. We have created 7 modules Donor, Donate, View Donor, Patient, View Patient, Blood Stock, and Blood Transfer. Admin can add, update, delete, Donor Details, Donate Details, View Donor Lists, Patient Details, View Patients Lists, Blood Stock Details, and Blood Transfer Details, all the functionalities are used.
