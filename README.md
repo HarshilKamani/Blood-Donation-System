@@ -16,6 +16,20 @@ This App is a Windows Based Application. The Visual studio Dot Net Framework(C# 
 
 # Downloading the source code
 
-You can download complete Airline ticket booking system source code as a <a href="https://raw.githubusercontent.com/HarshilKamani/Blood-Donation-System/main/Blood%20Donation.zip">Zip file</a>.
+You can download complete Blood Donation System source code as a <a href="https://raw.githubusercontent.com/HarshilKamani/Blood-Donation-System/main/Blood%20Donation.zip">Zip file</a>.
 You will have to download the complete source code everytime it is updated on the respository.
+
+# Take this steps to download Blood Donation system
+Note: Make sure you can use latest visual studio version 2019
+
+1) First Launch Visual Studio.
+2) Open the download folder and unzip Blood Donation.zip file.
+3) Open the project file name Blood Donation from you have downloaded the code using menu File -> Open.
+4) It may take a while to build the project for the first time.
+5) Once the build is over, run on the device using menu start -> start (Launch the windows Application in emulator).
+6) You can see a splash page as above screenshot.
+
+# Contact
+For any query or suggestion you can contact me :<br>
+Email: harshilkamani127@gmail.com
 
